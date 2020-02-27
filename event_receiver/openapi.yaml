@@ -1,0 +1,72 @@
+swagger: '2.0'
+info:
+  version: "1.0"
+  title: 'Inventory Management'
+  description: 'Handles inventory management'
+paths: 
+  /item:
+    post:
+      summary: adds item to the inventory
+      operationId: app.add_item
+      description: Stores item information to database
+      consumes:
+        - application/json
+      produces:
+        - applicaiton/json
+      parameters:
+        - in: body
+          name: itemName
+          description: Name of item
+          schema:
+            $ref: '#/definitions/Item'
+      responses:
+        201:
+          description: item added
+        400:
+          description: invalid input, object invalid
+  /order:
+    post:
+      summary: creates an order
+      operationId: app.add_order
+      description: Stores order information
+      consumes:
+       - application/json
+      produces:
+       - application/json
+      parameters:
+        - in: body
+          name: orderInfo
+          description: Order information
+          schema:
+            $ref: '#/definitions/Order'
+      responses:
+        201:
+          description: order added
+        400:
+          description: invalid input, object invalid
+definitions:
+  Item:
+    type: object
+    required:
+      - item_name
+    properties:
+      item_name:
+        type: string
+        example: apple
+  Order:
+    type: object
+    required:
+     - order_id
+     - ordered_item
+     - quantity
+    properties:
+      order_id:
+        type: string
+        format: string
+        example: ORD0001
+      ordered_item:
+        type: string
+        example: apple
+      quantity:
+        type: integer
+        example: 2

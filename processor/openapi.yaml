@@ -1,0 +1,63 @@
+swagger: '2.0'
+info:
+  version: "1.0"
+  title: 'Inventory Management'
+  description: 'Handles inventory management'
+paths: 
+  /event/stats:
+    get:
+      summary: gets events stats for items and orders
+      operationId: app.get_inventory_stats
+      description: Gets inventory statistics
+      produces:
+      - application/json
+      responses:
+        200:
+          description: current stats
+          schema:
+            $ref: '#/definitions/InventoryStats'
+        404:
+          description: stats do not exist
+          
+definitions:
+  Item:
+    type: object
+    required:
+      - item_name
+    properties:
+      item_name:
+        type: string
+        example: apple
+  Order:
+    type: object
+    required:
+     - order_id
+     - ordered_item
+     - quantity
+    properties:
+      order_id:
+        type: string
+        format: string
+        example: ORD0001
+      ordered_item:
+        type: string
+        example: apple
+      quantity:
+        type: integer
+        example: 2
+  InventoryStats:
+    type: object
+    required:
+    - num_item
+    - num_order
+    - updated_timestamp
+    properties:
+      num_items:
+        type: integer
+        example: 123
+      num_orders:
+        type: integer
+        example: 123
+      updated_timestamp:
+        type: string
+        format: date-time

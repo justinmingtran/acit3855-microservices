@@ -1,0 +1,11 @@
+version: 1
+datastore:
+  user: root
+  password: BBEB67877EjT!
+  hostname: localhost
+  port: 3306
+  db: events
+kafka:
+  server: localhost
+  port: 9092
+  topic: events

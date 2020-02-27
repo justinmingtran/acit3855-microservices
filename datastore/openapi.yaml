@@ -1,0 +1,89 @@
+swagger: '2.0'
+info:
+  version: "1.0"
+  title: 'Inventory Management'
+  description: 'Handles inventory management'
+paths: 
+  /item:
+    get:
+      summary: Gets an item information from inventory
+      operationId: app.get_item
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: startDate
+          description: Start Date
+          required: false
+          type: string
+          format: date-time
+        - in: query
+          name: endDate
+          description: End date
+          required: false
+          type: string
+          format: date-time
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Item'
+        400:
+          description: bad input parameter 
+  /order:
+    get:
+      summary: Gets an item information from inventory
+      operationId: app.get_order
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: startDate
+          description: Start Date
+          required: false
+          type: string
+          format: date-time
+        - in: query
+          name: endDate
+          description: End date
+          required: false
+          type: string
+          format: date-time
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/Order'
+        400:
+          description: bad input parameter
+          
+definitions:
+  Item:
+    type: object
+    required:
+      - item_name
+    properties:
+      item_name:
+        type: string
+        example: apple
+  Order:
+    type: object
+    required:
+     - order_id
+     - ordered_item
+     - quantity
+    properties:
+      order_id:
+        type: string
+        format: string
+        example: ORD0001
+      ordered_item:
+        type: string
+        example: apple
+      quantity:
+        type: integer
+        example: 2

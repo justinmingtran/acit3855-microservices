@@ -4,10 +4,6 @@ from connexion import NoContent
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from base import Base
-from item import Item
-from order import Order
-
 import yaml
 import logging
 import logging.config

@@ -6,7 +6,6 @@ import {
 } from "../scripts/serviceRequests";
 
 export default function UiComponent(props) {
-  
   const [readings, setReadings] = useState("readings");
 
   const getData = async () => {
@@ -14,6 +13,7 @@ export default function UiComponent(props) {
 
     var latestForm = {};
     var formStats = {};
+    
     await get_latest_request_form().then(result => {
       latestForm = result.payload;
     });
@@ -37,15 +37,13 @@ export default function UiComponent(props) {
   return (
     <div className="UiComponent">
       <header className="App-header">
-      <h1>Shoe orders and repair forms</h1>
+        <h1>Shoe orders and repair forms</h1>
         <div>
-        <p>Number of orders: {readings.NumOfOrders}</p>
-        <p>Number of repair requests: {readings.NumOfRepair}</p>
-        <p>Last Customer: {readings.LastCustomer}</p>
-        <p>Last Updated: {readings.LastUpdated}</p>
-
+          <p>Number of orders: {readings.NumOfOrders}</p>
+          <p>Number of repair requests: {readings.NumOfRepair}</p>
+          <p>Last Customer: {readings.LastCustomer}</p>
+          <p>Last Updated: {readings.LastUpdated}</p>
         </div>
-
       </header>
     </div>
   );

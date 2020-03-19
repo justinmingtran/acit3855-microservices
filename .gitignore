@@ -5,3 +5,5 @@ audit_log/__pycache__/*
 event_receiver/__pycache__/*
 processor/__pycache__/*
 datastore/app.log
+processor/app.log
+processor/data.json

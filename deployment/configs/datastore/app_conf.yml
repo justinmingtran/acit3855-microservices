@@ -1,0 +1,12 @@
+version: 1
+datastore:
+  user: root
+  password: password
+  hostname: acit3855-docker-lab.eastus.cloudapp.azure.com
+  port: 3306
+  db: events
+  auth_plugin: mysql_native_password
+kafka:
+  server: kafka
+  port: 9092
+  topic: events

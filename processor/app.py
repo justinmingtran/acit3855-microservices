@@ -1,9 +1,6 @@
 import connexion
 from connexion import NoContent
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-
 import yaml
 import logging
 import logging.config
@@ -14,11 +11,6 @@ import json
 import datetime
 import os
 # Function
-
-DB_ENGINE = create_engine('sqlite:///inventory.sqlite')
-Base.metadata.bind = DB_ENGINE
-DB_SESSION = sessionmaker(bind=DB_ENGINE)
-
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
@@ -99,3 +91,4 @@ app.add_api("openapi.yaml")
 if __name__ == "__main__":
     init_scheduler()
     app.run(port=8100)
+

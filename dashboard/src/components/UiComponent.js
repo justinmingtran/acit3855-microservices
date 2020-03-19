@@ -1,9 +1,5 @@
 import React, { useState, useEffect } from "react";
-import {
-  get_event_1_seq,
-  get_latest_request_form,
-  get_form_stats
-} from "../scripts/serviceRequests";
+import { get_inventory_stats } from "../scripts/serviceRequests";
 
 export default function UiComponent(props) {
   const [readings, setReadings] = useState("readings");
@@ -11,22 +7,16 @@ export default function UiComponent(props) {
   const getData = async () => {
     const dataObj = {};
 
-    var latestForm = {};
-    var formStats = {};
-    
-    await get_latest_request_form().then(result => {
-      latestForm = result.payload;
-    });
+    var inventoryStats = {};
 
-    await get_form_stats().then(result => {
-      formStats = result;
+    await get_inventory_stats().then(result => {
+      console.log(result);
+      inventoryStats = result;
     });
     // console.log(latestForm)
-    dataObj["NumOfOrders"] = formStats.num_orders;
-    dataObj["NumOfRepair"] = formStats.num_repair;
-    dataObj["LastCustomer"] = latestForm.customer_id;
+    dataObj["NumOfOrders"] = inventoryStats.num_order;
+    dataObj["NumOfItems"] = inventoryStats.num_item;
     dataObj["LastUpdated"] = Date();
-
     setReadings(dataObj);
   };
 
@@ -37,11 +27,11 @@ export default function UiComponent(props) {
   return (
     <div className="UiComponent">
       <header className="App-header">
-        <h1>Shoe orders and repair forms</h1>
+        <h1>Iventory Dashboard</h1>
+        <h2>Items and Orders</h2>
         <div>
-          <p>Number of orders: {readings.NumOfOrders}</p>
-          <p>Number of repair requests: {readings.NumOfRepair}</p>
-          <p>Last Customer: {readings.LastCustomer}</p>
+          <p>Number of Orders: {readings.NumOfOrders}</p>
+          <p>Number of Items: {readings.NumOfItems}</p>
           <p>Last Updated: {readings.LastUpdated}</p>
         </div>
       </header>

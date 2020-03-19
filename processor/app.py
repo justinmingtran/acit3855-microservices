@@ -3,6 +3,7 @@ from connexion import NoContent
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+from flask_cors import CORS, cross_origin
 
 import yaml
 import logging
@@ -14,10 +15,6 @@ import json
 import datetime
 import os
 # Function
-
-DB_ENGINE = create_engine('sqlite:///inventory.sqlite')
-Base.metadata.bind = DB_ENGINE
-DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -94,6 +91,8 @@ def get_inventory_stats():
         return 404
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yaml")
 
 if __name__ == "__main__":

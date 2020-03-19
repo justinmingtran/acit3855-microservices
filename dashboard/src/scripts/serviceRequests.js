@@ -2,7 +2,7 @@ const axios = require("axios");
 const url = "http://localhost";
 const event1 = ":8200/get_event_1_seq";
 const event2 = ":8200/get_latest_request_form?Content-Type=application/json";
-const eventStats = ":8100/events/stats?Content-Type=application/json";
+const eventStats = ":8100/event/stats?Content-Type=application/json";
 
 export const get_event_1_seq = async seqNum => {
   const data = await axios
@@ -28,14 +28,15 @@ export const get_latest_request_form = async () => {
   return data;
 };
 
-export const get_form_stats = async () => {
+export const get_inventory_stats = async () => {
   const data = await axios
     .get(url + eventStats)
     .then(result => {
+      console.log(result)
       return result.data;
     })
     .catch(e => {
-      console.log("get_form_stats.");
+      console.log("get_inventory_stats.");
     });
   return Promise.resolve(data);
 };

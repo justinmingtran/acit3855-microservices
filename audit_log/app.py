@@ -6,8 +6,12 @@ from connexion import NoContent
 from pykafka import KafkaClient
 from flask_cors import CORS, cross_origin
 
-with open('app_conf.yaml', 'r') as f:
-    app_config = yaml.safe_load(f.read())
+try:
+    with open('/config/app_config.yml', 'r') as f:
+        app_config = yaml.safe_load(f.read())
+except IOError:
+    with open('app_conf.yml', 'r') as f:
+        app_config = yaml.safe_load(f.read())
     
 def get_item_by_offset(offset):
     client = KafkaClient(hosts="{}:{}".format(app_config['kafka']['server'], app_config['kafka']['port']))

@@ -1,13 +1,10 @@
 import connexion
 from connexion import NoContent
 
-<<<<<<< HEAD
-=======
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from flask_cors import CORS, cross_origin
 
->>>>>>> 8d1f4d59c57eb3a9aeac2389442fbadf236fe892
 import yaml
 import logging
 import logging.config
@@ -18,10 +15,7 @@ import json
 import datetime
 import os
 # Function
-<<<<<<< HEAD
-=======
 
->>>>>>> 8d1f4d59c57eb3a9aeac2389442fbadf236fe892
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
@@ -44,8 +38,8 @@ def populate_stats():
         "endDate": new_timestamp
     }
     
-    num_orders = requests.get(url='http://localhost:8090/order', params=parameters)
-    num_items = requests.get(url='http://localhost:8090/item', params=parameters)
+    num_orders = requests.get(url='http://acit3855-docker-lab.eastus.cloudapp.azure.com:8090/order', params=parameters)
+    num_items = requests.get(url='http://acit3855-docker-lab.eastus.cloudapp.azure.com:8090/item', params=parameters)
     
     if json_data.get('updated_timestamp'):
         json_data['updated_timestamp'] = new_timestamp

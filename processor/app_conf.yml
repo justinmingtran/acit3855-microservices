@@ -3,4 +3,4 @@ datastore:
   filename: data.json
 scheduler:
   period_sec: 5
-evenstore: http://localhost:8090
+evenstore: http://acit3855-docker-lab.eastus.cloudapp.azure.com:8090

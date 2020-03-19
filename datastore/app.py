@@ -32,7 +32,6 @@ DB_ENGINE = create_engine('mysql+pymysql://{}:{}@{}:{}/{}'.format(app_config['da
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
-
 def process_messages():
     client = KafkaClient(hosts="{}:{}".format(
         app_config['kafka']['server'], app_config['kafka']['port']))

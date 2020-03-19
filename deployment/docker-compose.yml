@@ -59,7 +59,7 @@ services:
       - "kafka"
       - "db"
     volumes:
-      - ./configs/data_store:/config
+      - ./configs/datastore:/config
   processor:
     image: processor
     ports:

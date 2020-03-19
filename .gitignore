@@ -4,3 +4,4 @@ datastore/__pycache__/*
 audit_log/__pycache__/*
 event_receiver/__pycache__/*
 processor/__pycache__/*
+datastore/app.log

@@ -1460,3 +1460,2455 @@
 2020-01-30 11:26:47,667 - &(name)s - DEBUG - Recevied 107 new orders
 2020-01-30 11:26:47,668 - &(name)s - DEBUG - Recevied 108 new items
 2020-01-30 11:26:47,668 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:09,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:09,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:09,952 - &(name)s - DEBUG - {'num_item': 763, 'num_order': 763, 'updated_timestamp': '2020-01-30T11:26:45'}
+2020-03-11 19:08:09,957 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:14,189 - &(name)s - DEBUG - Recevied 2156 new orders
+2020-03-11 19:08:14,190 - &(name)s - DEBUG - Recevied 883 new items
+2020-03-11 19:08:14,191 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:14,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:14,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:14,971 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:09'}
+2020-03-11 19:08:15,017 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:19,049 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:19,050 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:19,051 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:19,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:19,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:19,951 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:15'}
+2020-03-11 19:08:19,995 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:24,043 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:24,044 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:24,045 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:24,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:24,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:24,950 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:20'}
+2020-03-11 19:08:24,991 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:29,083 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:29,084 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:29,085 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:29,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:29,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:29,949 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:25'}
+2020-03-11 19:08:29,996 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:34,155 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:34,156 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:34,158 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:34,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:34,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:34,948 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:30'}
+2020-03-11 19:08:34,989 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:39,030 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:39,031 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:39,032 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:39,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:39,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:39,948 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:34'}
+2020-03-11 19:08:39,948 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:43,986 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:43,987 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:43,988 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:44,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:44,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:44,948 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:39'}
+2020-03-11 19:08:44,949 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:48,998 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:48,999 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:49,000 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:49,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:49,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:49,983 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:44'}
+2020-03-11 19:08:50,037 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:54,073 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:54,074 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:54,075 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:54,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:54,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:08:54,964 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:50'}
+2020-03-11 19:08:55,024 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:08:59,112 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:08:59,117 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:08:59,141 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:08:59,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:08:59,948 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:00,012 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:08:55'}
+2020-03-11 19:09:00,155 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:04,398 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:04,402 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:04,405 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:04,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:04,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:04,958 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:00'}
+2020-03-11 19:09:05,010 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:09,107 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:09,108 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:09,109 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:09,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:09,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:09,949 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:05'}
+2020-03-11 19:09:10,008 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:14,110 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:14,111 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:14,112 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:14,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:14,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:14,953 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:10'}
+2020-03-11 19:09:15,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:19,034 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:19,035 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:19,036 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:19,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:19,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:19,952 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:15'}
+2020-03-11 19:09:20,001 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:24,106 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:24,107 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:24,108 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:24,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:24,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:24,950 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:20'}
+2020-03-11 19:09:24,990 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:29,168 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:29,171 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:29,173 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:29,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:29,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:29,952 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:24'}
+2020-03-11 19:09:30,000 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:34,048 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:34,049 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:34,050 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:34,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:34,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:34,956 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:30'}
+2020-03-11 19:09:35,012 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:39,156 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:39,157 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:39,158 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:39,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:39,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:39,958 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:35'}
+2020-03-11 19:09:40,009 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:44,050 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:44,051 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:44,052 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:44,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:44,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:44,967 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:40'}
+2020-03-11 19:09:45,025 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:49,069 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:49,073 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:49,074 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:49,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:49,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:49,960 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:45'}
+2020-03-11 19:09:50,008 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:54,077 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:54,077 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:54,079 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:54,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:54,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:54,970 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:50'}
+2020-03-11 19:09:55,017 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:09:59,047 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:09:59,047 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:09:59,048 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:09:59,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:09:59,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:09:59,951 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:09:55'}
+2020-03-11 19:09:59,989 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:04,095 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:04,098 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:04,100 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:04,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:04,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:04,971 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:00'}
+2020-03-11 19:10:05,017 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:09,096 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:09,097 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:09,098 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:09,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:09,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:09,952 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:05'}
+2020-03-11 19:10:10,057 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:14,107 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:14,110 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:14,111 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:14,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:14,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:14,963 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:10'}
+2020-03-11 19:10:15,058 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:19,135 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:19,136 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:19,136 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:19,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:19,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:19,949 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:15'}
+2020-03-11 19:10:20,000 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:24,033 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:24,034 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:24,035 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:24,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:24,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:24,950 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:20'}
+2020-03-11 19:10:24,989 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:29,035 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:29,036 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:29,037 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:29,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:29,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:29,951 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:24'}
+2020-03-11 19:10:30,001 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:34,072 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:34,073 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:34,074 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:34,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:34,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:34,957 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:30'}
+2020-03-11 19:10:35,103 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:39,362 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:39,364 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:39,365 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:39,958 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:39,959 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:39,972 - &(name)s - DEBUG - {'num_item': 1646, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:35'}
+2020-03-11 19:10:40,040 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:44,079 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:44,080 - &(name)s - DEBUG - Recevied 1 new items
+2020-03-11 19:10:44,081 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:44,958 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:44,959 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:44,964 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:40'}
+2020-03-11 19:10:45,020 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:49,100 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:49,101 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:49,102 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:49,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:49,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:49,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:45'}
+2020-03-11 19:10:50,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:54,052 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:54,053 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:54,054 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:54,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:54,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:54,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:50'}
+2020-03-11 19:10:55,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:10:59,038 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:10:59,039 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:10:59,040 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:10:59,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:10:59,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:10:59,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:10:55'}
+2020-03-11 19:11:00,000 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:04,124 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:04,125 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:04,126 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:04,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:04,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:04,961 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:00'}
+2020-03-11 19:11:05,050 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:09,093 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:09,094 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:09,094 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:09,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:09,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:09,955 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:05'}
+2020-03-11 19:11:10,002 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:14,043 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:14,044 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:14,045 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:14,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:14,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:14,951 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:10'}
+2020-03-11 19:11:14,999 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:19,027 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:19,028 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:19,029 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:19,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:19,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:19,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:15'}
+2020-03-11 19:11:20,009 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:24,041 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:24,042 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:24,043 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:24,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:24,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:24,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:20'}
+2020-03-11 19:11:24,999 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:29,040 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:29,041 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:29,042 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:29,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:29,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:29,954 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:24'}
+2020-03-11 19:11:30,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:34,104 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:34,105 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:34,105 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:34,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:34,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:34,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:30'}
+2020-03-11 19:11:35,002 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:39,046 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:39,047 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:39,048 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:39,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:39,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:39,948 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:35'}
+2020-03-11 19:11:39,989 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:44,030 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:44,031 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:44,032 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:44,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:44,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:44,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:39'}
+2020-03-11 19:11:45,003 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:49,049 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:49,052 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:49,053 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:49,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:49,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:49,956 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:45'}
+2020-03-11 19:11:50,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:54,095 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:54,097 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:54,099 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:54,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:54,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:54,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:50'}
+2020-03-11 19:11:55,002 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:11:59,040 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:11:59,041 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:11:59,043 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:11:59,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:11:59,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:11:59,948 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:11:55'}
+2020-03-11 19:12:00,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:04,041 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:04,042 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:04,044 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:04,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:04,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:04,954 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:00'}
+2020-03-11 19:12:05,001 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:09,043 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:09,044 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:09,045 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:09,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:09,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:09,959 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:05'}
+2020-03-11 19:12:10,048 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:14,139 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:14,139 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:14,141 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:14,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:14,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:14,961 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:10'}
+2020-03-11 19:12:15,007 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:19,109 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:19,110 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:19,111 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:19,958 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:19,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:19,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:15'}
+2020-03-11 19:12:20,006 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:24,110 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:24,112 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:24,112 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:24,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:24,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:24,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:20'}
+2020-03-11 19:12:25,015 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:29,118 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:29,119 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:29,120 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:29,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:29,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:29,956 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:25'}
+2020-03-11 19:12:30,006 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:34,046 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:34,047 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:34,048 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:34,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:34,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:34,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:30'}
+2020-03-11 19:12:34,988 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:39,027 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:39,028 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:39,029 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:39,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:39,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:39,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:34'}
+2020-03-11 19:12:40,000 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:44,099 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:44,100 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:44,101 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:44,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:44,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:44,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:40'}
+2020-03-11 19:12:45,001 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:49,051 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:49,052 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:49,053 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:49,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:49,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:49,947 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:45'}
+2020-03-11 19:12:50,039 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:54,143 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:54,144 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:54,145 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:54,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:54,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:54,982 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:50'}
+2020-03-11 19:12:55,042 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:12:59,082 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:12:59,083 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:12:59,085 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:12:59,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:12:59,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:12:59,968 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:12:55'}
+2020-03-11 19:13:00,025 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:04,055 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:04,056 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:04,057 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:04,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:04,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:04,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:00'}
+2020-03-11 19:13:05,012 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:09,047 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:09,048 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:09,049 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:09,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:09,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:09,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:05'}
+2020-03-11 19:13:10,009 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:14,066 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:14,067 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:14,068 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:14,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:14,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:14,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:10'}
+2020-03-11 19:13:15,008 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:19,104 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:19,105 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:19,105 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:19,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:19,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:19,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:15'}
+2020-03-11 19:13:20,010 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:24,122 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:24,123 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:24,124 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:24,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:24,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:24,948 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:20'}
+2020-03-11 19:13:25,009 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:29,038 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:29,039 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:29,040 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:29,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:29,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:29,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:25'}
+2020-03-11 19:13:30,000 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:34,093 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:34,094 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:34,095 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:34,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:34,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:34,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:30'}
+2020-03-11 19:13:34,985 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:39,020 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:39,021 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:39,022 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:39,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:39,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:39,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:34'}
+2020-03-11 19:13:40,009 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:44,037 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:44,038 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:44,039 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:44,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:44,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:44,951 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:40'}
+2020-03-11 19:13:45,005 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:49,130 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:49,131 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:49,132 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:49,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:49,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:49,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:45'}
+2020-03-11 19:13:49,997 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:54,088 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:54,089 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:54,090 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:54,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:54,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:54,947 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:50'}
+2020-03-11 19:13:54,994 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:13:59,037 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:13:59,038 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:13:59,039 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:13:59,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:13:59,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:13:59,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:13:54'}
+2020-03-11 19:14:00,020 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:04,044 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:04,045 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:04,046 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:04,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:04,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:04,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:00'}
+2020-03-11 19:14:04,996 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:09,031 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:09,032 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:09,032 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:09,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:09,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:09,951 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:05'}
+2020-03-11 19:14:10,000 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:14,150 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:14,153 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:14,155 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:14,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:14,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:14,957 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:10'}
+2020-03-11 19:14:15,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:19,230 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:19,297 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:19,379 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:19,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:19,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:19,964 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:15'}
+2020-03-11 19:14:20,018 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:24,173 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:24,175 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:24,177 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:24,946 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:25,022 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:25,182 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:20'}
+2020-03-11 19:14:25,304 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:29,467 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:29,468 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:29,469 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:29,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:29,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:29,960 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:25'}
+2020-03-11 19:14:30,011 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:34,055 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:34,058 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:34,059 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:34,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:34,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:34,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:30'}
+2020-03-11 19:14:35,011 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:39,050 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:39,051 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:39,051 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:39,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:39,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:39,951 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:35'}
+2020-03-11 19:14:39,952 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:44,056 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:44,058 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:44,059 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:44,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:44,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:44,967 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:39'}
+2020-03-11 19:14:45,019 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:49,050 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:49,051 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:49,053 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:49,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:49,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:49,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:45'}
+2020-03-11 19:14:49,996 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:54,032 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:54,033 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:54,035 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:54,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:54,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:54,973 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:50'}
+2020-03-11 19:14:55,022 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:14:59,061 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:14:59,062 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:14:59,063 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:14:59,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:14:59,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:14:59,961 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:14:55'}
+2020-03-11 19:15:00,017 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:04,127 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:04,128 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:04,129 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:04,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:04,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:04,962 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:00'}
+2020-03-11 19:15:05,019 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:09,112 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:09,113 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:09,114 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:09,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:09,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:10,061 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:05'}
+2020-03-11 19:15:10,145 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:14,257 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:14,258 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:14,259 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:14,961 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:14,975 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:14,985 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:10'}
+2020-03-11 19:15:14,986 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:19,073 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:19,089 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:19,091 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:19,948 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:19,965 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:19,975 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:14'}
+2020-03-11 19:15:19,975 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:24,039 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:24,041 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:24,043 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:24,953 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:24,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:24,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:19'}
+2020-03-11 19:15:25,017 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:29,120 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:29,121 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:29,122 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:29,948 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:29,949 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:29,967 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:25'}
+2020-03-11 19:15:30,024 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:34,120 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:34,121 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:34,121 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:34,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:34,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:34,972 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:30'}
+2020-03-11 19:15:35,037 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:39,079 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:39,080 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:39,081 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:39,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:39,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:39,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:35'}
+2020-03-11 19:15:40,019 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:44,054 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:44,055 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:44,056 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:44,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:44,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:44,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:40'}
+2020-03-11 19:15:45,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:49,045 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:49,055 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:49,056 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:49,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:49,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:49,968 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:45'}
+2020-03-11 19:15:50,019 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:54,118 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:54,122 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:54,125 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:54,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:54,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:54,956 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:50'}
+2020-03-11 19:15:55,004 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:15:59,090 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:15:59,092 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:15:59,092 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:15:59,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:15:59,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:15:59,966 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:55'}
+2020-03-11 19:15:59,967 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:04,007 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:04,008 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:04,009 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:04,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:04,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:04,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:15:59'}
+2020-03-11 19:16:05,009 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:09,042 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:09,043 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:09,043 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:09,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:09,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:09,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:05'}
+2020-03-11 19:16:09,993 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:14,028 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:14,029 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:14,030 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:14,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:14,959 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:14,976 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:09'}
+2020-03-11 19:16:15,036 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:18,132 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:18,133 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:09'}
+2020-03-11 19:16:18,134 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:19,253 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:19,254 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:19,256 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:19,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:19,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:19,947 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:15'}
+2020-03-11 19:16:19,990 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:24,027 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:24,028 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:24,029 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:24,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:24,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:24,957 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:19'}
+2020-03-11 19:16:24,957 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:29,154 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:29,155 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:29,156 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:29,948 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:29,974 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:29,988 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:25'}
+2020-03-11 19:16:30,072 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:34,127 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:34,127 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:34,128 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:34,951 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:34,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:34,967 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:30'}
+2020-03-11 19:16:35,086 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:39,248 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:39,249 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:39,249 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:39,948 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:39,948 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:39,955 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:35'}
+2020-03-11 19:16:40,014 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:44,064 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:44,065 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:44,066 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:44,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:44,951 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:44,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:40'}
+2020-03-11 19:16:45,021 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:49,139 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:49,142 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:49,144 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:49,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:49,951 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:49,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:45'}
+2020-03-11 19:16:50,026 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:54,129 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:54,129 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:54,130 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:54,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:54,950 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:54,958 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:50'}
+2020-03-11 19:16:54,959 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:16:59,035 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:16:59,036 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:16:59,037 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:16:59,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:16:59,949 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:16:59,955 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:16:54'}
+2020-03-11 19:17:00,017 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:04,065 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:04,065 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:04,066 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:04,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:04,960 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:05,087 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:00'}
+2020-03-11 19:17:05,145 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:09,185 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:09,186 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:09,187 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:09,947 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:09,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:09,960 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:05'}
+2020-03-11 19:17:10,014 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:14,052 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:14,053 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:14,054 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:14,952 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:14,953 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:14,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:10'}
+2020-03-11 19:17:15,036 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:19,129 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:19,131 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:19,132 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:19,948 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:19,949 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:19,954 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:15'}
+2020-03-11 19:17:19,955 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:24,001 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:24,002 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:24,003 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:24,951 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:24,953 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:24,969 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:19'}
+2020-03-11 19:17:25,018 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:29,099 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:29,101 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:29,102 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:29,947 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:29,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:29,955 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:25'}
+2020-03-11 19:17:30,010 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:34,060 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:34,063 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:34,064 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:34,953 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:34,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:34,963 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:30'}
+2020-03-11 19:17:35,019 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:39,061 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:39,063 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:39,063 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:39,946 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:39,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:39,968 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:35'}
+2020-03-11 19:17:40,040 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:44,170 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:44,171 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:44,172 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:44,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:44,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:44,975 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:40'}
+2020-03-11 19:17:45,072 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:49,120 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:49,121 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:49,122 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:49,946 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:49,950 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:49,974 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:45'}
+2020-03-11 19:17:50,029 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:54,082 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:54,083 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:54,084 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:54,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:54,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:17:54,958 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:50'}
+2020-03-11 19:17:55,041 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:17:59,090 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:17:59,093 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:17:59,094 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:17:59,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:17:59,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:00,091 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:17:55'}
+2020-03-11 19:18:00,150 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:04,233 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:04,234 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:04,235 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:04,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:04,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:04,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:00'}
+2020-03-11 19:18:05,068 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:09,106 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:09,107 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:09,108 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:09,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:09,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:09,968 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:05'}
+2020-03-11 19:18:10,016 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:14,048 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:14,050 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:14,051 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:14,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:14,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:14,958 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:10'}
+2020-03-11 19:18:15,003 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:19,110 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:19,110 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:19,110 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:19,960 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:19,961 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:19,978 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:15'}
+2020-03-11 19:18:20,178 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:24,352 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:24,353 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:24,353 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:24,959 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:24,960 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:24,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:20'}
+2020-03-11 19:18:25,020 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:29,129 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:29,153 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:29,257 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:29,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:30,040 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:30,056 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:25'}
+2020-03-11 19:18:30,105 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:34,175 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:34,177 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:34,177 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:34,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:34,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:34,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:30'}
+2020-03-11 19:18:35,008 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:39,047 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:39,048 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:39,050 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:39,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:39,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:39,966 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:35'}
+2020-03-11 19:18:40,016 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:44,110 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:44,112 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:44,113 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:44,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:44,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:44,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:40'}
+2020-03-11 19:18:45,001 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:49,051 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:49,053 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:49,054 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:49,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:49,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:49,954 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:45'}
+2020-03-11 19:18:50,007 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:54,104 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:54,105 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:54,106 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:54,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:54,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:54,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:50'}
+2020-03-11 19:18:55,058 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:18:59,112 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:18:59,114 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:18:59,119 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:18:59,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:18:59,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:18:59,954 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:18:55'}
+2020-03-11 19:19:00,012 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:04,074 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:04,075 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:04,075 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:04,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:04,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:04,977 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:00'}
+2020-03-11 19:19:05,090 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:09,146 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:09,148 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:09,149 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:09,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:09,966 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:10,031 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:05'}
+2020-03-11 19:19:10,035 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:14,098 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:14,099 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:14,100 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:14,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:14,961 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:14,985 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:10'}
+2020-03-11 19:19:15,053 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:19,110 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:19,137 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:19,139 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:19,947 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:19,948 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:19,968 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:15'}
+2020-03-11 19:19:20,067 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:24,090 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:24,090 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:24,091 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:24,954 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:24,955 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:24,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:20'}
+2020-03-11 19:19:25,224 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:29,305 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:29,306 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:29,307 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:29,947 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:29,949 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:29,958 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:25'}
+2020-03-11 19:19:30,033 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:34,071 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:34,075 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:34,076 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:34,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:34,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:34,966 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:30'}
+2020-03-11 19:19:35,016 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:39,048 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:39,049 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:39,050 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:39,951 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:39,955 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:39,973 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:35'}
+2020-03-11 19:19:40,034 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:44,076 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:44,076 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:44,077 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:44,947 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:44,948 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:44,956 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:40'}
+2020-03-11 19:19:45,042 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:49,137 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:49,138 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:49,139 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:49,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:49,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:49,958 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:45'}
+2020-03-11 19:19:50,014 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:54,055 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:54,056 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:54,059 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:54,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:54,967 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:54,977 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:50'}
+2020-03-11 19:19:55,082 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:19:59,119 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:19:59,123 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:19:59,124 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:19:59,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:19:59,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:19:59,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:19:55'}
+2020-03-11 19:20:00,013 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:04,289 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:04,290 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:04,291 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:04,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:04,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:04,951 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:00'}
+2020-03-11 19:20:05,005 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:09,064 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:09,219 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:09,220 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:09,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:09,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:09,961 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:05'}
+2020-03-11 19:20:10,125 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:14,175 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:14,175 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:14,176 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:14,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:14,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:14,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:10'}
+2020-03-11 19:20:15,051 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:19,129 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:19,130 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:19,131 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:19,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:19,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:19,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:15'}
+2020-03-11 19:20:19,965 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:24,048 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:24,049 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:24,049 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:24,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:24,949 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:24,964 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:19'}
+2020-03-11 19:20:25,062 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:29,278 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:29,280 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:29,282 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:29,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:29,955 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:29,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:25'}
+2020-03-11 19:20:30,020 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:34,057 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:34,058 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:34,059 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:34,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:34,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:34,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:30'}
+2020-03-11 19:20:34,953 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:38,988 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:38,990 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:38,991 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:39,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:39,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:39,961 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:34'}
+2020-03-11 19:20:39,962 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:43,995 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:43,995 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:43,997 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:44,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:44,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:44,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:39'}
+2020-03-11 19:20:44,950 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:49,019 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:49,022 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:49,025 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:49,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:49,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:49,991 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:44'}
+2020-03-11 19:20:49,993 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:54,034 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:54,035 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:54,036 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:54,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:55,164 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:55,270 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:49'}
+2020-03-11 19:20:55,305 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:20:59,446 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:20:59,450 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:20:59,450 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:20:59,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:20:59,951 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:20:59,974 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:55'}
+2020-03-11 19:20:59,976 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:04,595 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:04,596 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:04,597 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:04,947 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:04,948 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:04,959 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:20:59'}
+2020-03-11 19:21:04,960 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:09,605 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:09,606 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:09,606 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:09,953 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:09,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:09,978 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:04'}
+2020-03-11 19:21:09,979 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:14,370 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:14,371 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:14,372 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:14,946 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:14,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:14,956 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:09'}
+2020-03-11 19:21:14,956 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:19,762 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:19,763 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:19,763 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:19,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:19,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:19,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:14'}
+2020-03-11 19:21:19,954 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:24,172 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:24,172 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:24,173 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:24,946 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:24,948 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:24,957 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:19'}
+2020-03-11 19:21:24,958 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:29,057 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:29,057 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:29,058 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:29,966 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:29,971 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:29,987 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:24'}
+2020-03-11 19:21:29,988 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:34,380 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:34,381 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:34,382 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:34,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:34,961 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:34,976 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:29'}
+2020-03-11 19:21:34,986 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:39,581 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:39,596 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:39,598 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:39,954 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:39,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:39,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:34'}
+2020-03-11 19:21:39,972 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:44,318 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:44,323 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:44,323 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:44,964 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:44,965 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:44,980 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:39'}
+2020-03-11 19:21:44,981 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:49,581 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:49,596 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:49,597 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:49,950 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:49,950 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:49,960 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:44'}
+2020-03-11 19:21:49,961 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:54,381 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:54,382 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:54,383 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:54,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:54,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:54,963 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:49'}
+2020-03-11 19:21:54,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:21:59,498 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:21:59,499 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:21:59,500 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:21:59,950 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:21:59,966 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:21:59,992 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:21:54'}
+2020-03-11 19:22:00,019 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:04,811 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:04,811 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:04,811 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:04,952 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:04,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:05,000 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:00'}
+2020-03-11 19:22:05,016 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:09,683 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:09,684 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:09,685 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:09,963 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:09,964 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:10,009 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:05'}
+2020-03-11 19:22:10,013 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:14,418 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:14,419 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:14,420 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:14,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:14,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:14,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:10'}
+2020-03-11 19:22:14,978 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:19,531 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:19,532 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:19,533 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:19,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:19,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:19,972 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:14'}
+2020-03-11 19:22:19,973 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:24,220 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:24,222 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:24,223 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:24,959 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:24,960 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:24,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:19'}
+2020-03-11 19:22:24,971 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:29,486 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:29,488 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:29,488 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:29,948 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:29,949 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:29,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:24'}
+2020-03-11 19:22:29,965 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:34,379 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:34,381 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:34,382 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:34,953 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:34,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:34,967 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:29'}
+2020-03-11 19:22:34,967 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:39,705 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:39,706 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:39,706 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:39,953 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:39,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:39,961 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:34'}
+2020-03-11 19:22:39,980 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:44,486 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:44,488 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:44,488 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:44,952 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:44,953 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:44,964 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:39'}
+2020-03-11 19:22:44,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:49,615 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:49,628 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:49,644 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:49,961 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:49,961 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:49,977 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:44'}
+2020-03-11 19:22:49,978 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:54,337 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:54,338 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:54,339 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:54,966 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:54,978 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:54,988 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:49'}
+2020-03-11 19:22:54,989 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:22:59,664 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:22:59,665 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:22:59,665 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:22:59,953 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:22:59,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:22:59,966 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:54'}
+2020-03-11 19:22:59,967 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:04,511 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:04,527 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:04,528 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:04,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:04,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:04,957 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:22:59'}
+2020-03-11 19:23:04,958 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:09,414 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:09,415 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:09,415 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:09,963 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:09,966 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:09,978 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:04'}
+2020-03-11 19:23:09,979 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:14,321 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:14,322 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:14,323 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:14,964 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:14,965 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:14,983 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:09'}
+2020-03-11 19:23:14,990 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:19,324 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:19,325 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:19,326 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:19,946 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:19,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:19,969 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:14'}
+2020-03-11 19:23:19,973 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:24,614 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:24,614 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:24,615 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:24,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:24,950 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:24,959 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:19'}
+2020-03-11 19:23:24,960 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:29,682 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:29,682 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:29,683 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:29,960 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:30,042 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:30,061 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:24'}
+2020-03-11 19:23:30,171 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:34,781 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:34,782 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:34,783 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:34,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:34,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:34,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:30'}
+2020-03-11 19:23:34,953 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:39,367 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:39,368 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:39,369 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:39,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:39,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:39,964 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:34'}
+2020-03-11 19:23:39,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:43,990 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:43,991 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:43,992 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:44,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:44,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:44,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:39'}
+2020-03-11 19:23:44,951 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:48,983 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:48,984 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:48,985 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:49,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:49,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:49,963 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:44'}
+2020-03-11 19:23:49,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:53,998 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:54,000 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:54,000 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:54,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:54,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:54,951 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:49'}
+2020-03-11 19:23:54,952 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:23:58,988 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:23:58,990 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:23:58,991 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:23:59,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:23:59,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:23:59,964 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:54'}
+2020-03-11 19:23:59,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:03,999 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:04,000 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:04,001 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:04,954 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:04,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:04,968 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:23:59'}
+2020-03-11 19:24:04,969 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:09,056 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:09,057 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:09,058 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:09,952 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:09,952 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:10,013 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:04'}
+2020-03-11 19:24:10,027 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:14,258 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:14,258 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:14,259 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:14,946 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:14,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:14,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:10'}
+2020-03-11 19:24:14,954 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:19,004 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:19,006 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:19,006 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:19,954 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:19,962 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:19,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:14'}
+2020-03-11 19:24:19,977 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:24,035 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:24,036 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:24,037 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:24,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:24,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:24,967 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:19'}
+2020-03-11 19:24:24,980 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:29,031 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:29,032 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:29,033 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:29,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:29,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:29,963 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:24'}
+2020-03-11 19:24:29,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:33,997 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:34,002 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:34,003 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:34,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:34,952 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:34,966 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:29'}
+2020-03-11 19:24:34,967 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:39,002 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:39,005 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:39,006 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:39,953 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:39,960 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:39,974 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:34'}
+2020-03-11 19:24:39,974 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:44,014 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:44,014 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:44,015 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:44,948 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:44,948 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:44,955 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:39'}
+2020-03-11 19:24:44,960 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:48,989 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:48,990 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:48,991 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:49,951 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:49,952 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:49,969 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:44'}
+2020-03-11 19:24:49,970 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:54,038 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:54,039 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:54,039 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:54,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:55,017 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:55,079 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:49'}
+2020-03-11 19:24:55,135 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:24:59,926 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:24:59,927 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:24:59,928 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:24:59,951 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:24:59,952 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:24:59,962 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:55'}
+2020-03-11 19:24:59,963 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:04,290 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:04,291 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:04,292 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:04,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:04,953 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:04,962 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:24:59'}
+2020-03-11 19:25:04,963 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:09,716 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:09,717 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:09,718 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:09,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:09,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:09,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:04'}
+2020-03-11 19:25:09,955 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:14,043 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:14,044 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:14,045 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:14,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:14,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:14,964 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:09'}
+2020-03-11 19:25:14,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:18,999 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:19,000 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:19,001 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:19,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:19,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:19,966 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:14'}
+2020-03-11 19:25:19,968 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:24,006 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:24,007 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:24,007 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:24,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:24,955 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:24,963 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:19'}
+2020-03-11 19:25:24,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:28,998 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:28,998 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:29,000 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:29,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:29,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:29,962 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:24'}
+2020-03-11 19:25:29,963 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:34,010 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:34,011 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:34,012 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:34,954 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:34,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:34,978 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:29'}
+2020-03-11 19:25:34,979 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:39,023 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:39,024 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:39,024 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:39,947 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:39,949 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:39,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:34'}
+2020-03-11 19:25:39,966 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:44,008 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:44,009 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:44,010 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:44,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:44,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:44,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:39'}
+2020-03-11 19:25:44,950 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:48,973 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:48,974 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:48,975 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:49,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:49,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:49,963 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:44'}
+2020-03-11 19:25:49,963 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:53,987 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:53,988 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:53,989 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:54,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:54,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:54,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:49'}
+2020-03-11 19:25:54,953 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:25:58,986 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:25:58,986 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:25:58,987 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:25:59,955 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:25:59,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:25:59,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:54'}
+2020-03-11 19:25:59,966 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:04,015 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:04,015 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:04,017 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:04,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:04,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:04,963 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:25:59'}
+2020-03-11 19:26:04,964 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:09,014 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:09,016 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:09,016 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:09,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:09,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:09,969 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:04'}
+2020-03-11 19:26:09,970 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:14,017 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:14,035 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:14,038 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:14,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:14,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:14,968 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:09'}
+2020-03-11 19:26:14,969 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:19,004 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:19,005 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:19,005 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:19,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:19,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:19,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:14'}
+2020-03-11 19:26:19,966 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:23,998 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:23,998 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:23,999 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:24,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:24,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:24,969 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:19'}
+2020-03-11 19:26:24,979 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:29,104 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:29,105 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:29,109 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:29,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:29,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:29,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:24'}
+2020-03-11 19:26:29,966 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:34,013 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:34,019 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:34,020 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:34,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:34,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:34,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:29'}
+2020-03-11 19:26:34,966 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:39,007 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:39,008 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:39,009 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:39,958 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:39,959 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:39,966 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:34'}
+2020-03-11 19:26:39,967 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:44,031 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:44,033 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:44,034 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:44,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:44,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:44,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:39'}
+2020-03-11 19:26:44,954 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:49,041 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:49,041 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:49,042 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:49,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:49,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:49,947 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:44'}
+2020-03-11 19:26:49,948 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:54,018 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:54,019 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:54,019 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:54,946 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:54,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:54,967 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:49'}
+2020-03-11 19:26:54,968 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:26:59,038 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:26:59,039 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:26:59,040 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:26:59,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:26:59,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:26:59,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:54'}
+2020-03-11 19:26:59,954 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:04,005 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:04,006 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:04,006 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:04,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:04,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:04,966 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:26:59'}
+2020-03-11 19:27:04,967 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:09,013 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:09,014 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:09,014 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:09,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:09,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:09,965 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:04'}
+2020-03-11 19:27:09,966 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:14,002 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:14,003 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:14,004 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:14,958 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:14,961 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:14,974 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:09'}
+2020-03-11 19:27:14,975 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:19,008 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:19,009 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:19,009 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:19,944 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:19,946 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:19,972 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:14'}
+2020-03-11 19:27:19,975 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:24,031 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:24,032 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:24,034 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:24,949 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:24,950 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:24,968 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:19'}
+2020-03-11 19:27:24,969 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:29,036 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:29,038 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:29,038 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:29,952 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:29,954 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:29,969 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:24'}
+2020-03-11 19:27:29,970 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:34,003 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:34,004 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:34,005 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:34,948 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:34,948 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:34,956 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:29'}
+2020-03-11 19:27:34,957 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:39,014 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:39,016 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:39,017 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:39,951 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:39,953 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:39,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:34'}
+2020-03-11 19:27:39,973 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:44,016 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:44,017 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:44,018 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:44,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:44,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:44,951 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:39'}
+2020-03-11 19:27:44,951 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:48,992 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:48,993 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:48,994 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:49,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:49,956 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:49,961 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:44'}
+2020-03-11 19:27:49,963 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:53,999 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:54,002 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:54,003 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:54,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:54,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:54,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:49'}
+2020-03-11 19:27:54,951 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:27:58,986 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:27:58,987 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:27:58,988 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:27:59,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:27:59,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:27:59,972 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:54'}
+2020-03-11 19:27:59,973 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:04,015 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:04,015 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:04,016 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:04,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:04,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:04,959 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:27:59'}
+2020-03-11 19:28:04,960 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:08,985 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:08,987 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:08,987 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:09,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:09,958 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:09,974 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:04'}
+2020-03-11 19:28:09,975 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:14,010 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:14,011 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:14,011 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:14,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:14,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:14,961 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:09'}
+2020-03-11 19:28:14,962 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:19,024 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:19,025 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:19,025 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:19,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:19,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:19,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:14'}
+2020-03-11 19:28:19,972 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:24,013 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:24,014 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:24,015 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:24,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:24,941 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:24,949 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:19'}
+2020-03-11 19:28:24,949 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:28,979 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:28,980 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:28,981 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:29,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:29,945 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:29,967 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:24'}
+2020-03-11 19:28:29,968 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:34,005 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:34,007 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:34,008 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:34,960 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:34,961 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:34,971 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:29'}
+2020-03-11 19:28:34,972 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:39,023 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:39,025 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:39,025 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:39,945 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:39,947 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:39,974 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:34'}
+2020-03-11 19:28:39,976 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:44,011 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:44,012 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:44,013 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:44,958 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:44,960 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:44,996 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:39'}
+2020-03-11 19:28:44,997 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:49,033 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:49,034 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:49,034 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:49,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:49,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:49,956 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:44'}
+2020-03-11 19:28:49,957 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:54,019 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:54,021 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:54,022 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:54,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:54,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:54,952 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:49'}
+2020-03-11 19:28:54,954 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:28:59,018 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:28:59,019 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:28:59,020 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:28:59,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:28:59,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:28:59,950 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:54'}
+2020-03-11 19:28:59,951 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:29:04,012 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:29:04,013 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:29:04,014 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:29:04,956 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:29:04,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:29:04,963 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:28:59'}
+2020-03-11 19:29:04,963 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:29:09,001 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:29:09,003 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:29:09,004 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:29:09,943 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:29:09,944 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:29:09,954 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:29:04'}
+2020-03-11 19:29:09,955 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:29:13,995 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:29:13,996 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:29:13,997 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:29:14,957 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:29:14,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:29:14,967 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:29:09'}
+2020-03-11 19:29:14,967 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:29:19,010 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:29:19,011 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:29:19,011 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:29:19,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:29:19,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:29:19,948 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:29:14'}
+2020-03-11 19:29:19,949 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:29:23,985 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:29:23,986 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:29:23,988 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:29:24,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:29:24,943 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:29:24,954 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:29:19'}
+2020-03-11 19:29:24,955 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:29:28,984 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:29:28,985 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:29:28,986 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:29:29,942 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:29:29,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:29:29,953 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:29:24'}
+2020-03-11 19:29:29,954 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:29:34,941 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:29:34,942 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:29:34,943 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:29:24'}
+2020-03-11 19:29:34,944 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:02,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:02,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:02,970 - &(name)s - DEBUG - {'num_item': 1647, 'num_order': 2919, 'updated_timestamp': '2020-03-11T19:29:24'}
+2020-03-11 19:35:02,971 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:07,106 - &(name)s - DEBUG - Recevied 533 new orders
+2020-03-11 19:35:07,107 - &(name)s - DEBUG - Recevied 270 new items
+2020-03-11 19:35:07,108 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:07,969 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:07,972 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:07,995 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:02'}
+2020-03-11 19:35:08,060 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:12,140 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:12,141 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:12,142 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:12,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:12,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:12,981 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:08'}
+2020-03-11 19:35:13,016 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:17,062 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:17,064 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:17,065 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:17,967 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:17,967 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:17,975 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:13'}
+2020-03-11 19:35:18,037 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:22,087 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:22,091 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:22,093 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:22,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:22,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:22,991 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:18'}
+2020-03-11 19:35:23,040 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:27,075 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:27,076 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:27,076 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:27,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:27,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:27,976 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:23'}
+2020-03-11 19:35:28,018 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:32,112 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:32,157 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:32,274 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:32,970 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:33,018 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:33,034 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:28'}
+2020-03-11 19:35:33,093 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:37,116 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:37,116 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:37,119 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:37,972 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:37,973 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:37,984 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:33'}
+2020-03-11 19:35:38,035 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:39,316 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:39,317 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:33'}
+2020-03-11 19:35:39,318 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:41,425 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:41,426 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:33'}
+2020-03-11 19:35:41,427 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:42,074 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:42,075 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:42,076 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:42,969 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:42,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:42,974 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:38'}
+2020-03-11 19:35:43,018 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:43,813 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:43,814 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:38'}
+2020-03-11 19:35:43,815 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:45,886 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:45,887 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:38'}
+2020-03-11 19:35:45,888 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:47,059 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:47,060 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:47,060 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:47,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:47,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:47,975 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:43'}
+2020-03-11 19:35:48,037 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:48,263 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:48,265 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:43'}
+2020-03-11 19:35:48,267 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:50,396 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:50,396 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:43'}
+2020-03-11 19:35:50,397 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:52,076 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:52,077 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:52,077 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:52,779 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:52,787 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:48'}
+2020-03-11 19:35:52,864 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:52,969 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:53,027 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:53,103 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:48'}
+2020-03-11 19:35:53,157 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:55,190 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:55,193 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:48'}
+2020-03-11 19:35:55,195 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:57,286 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:35:57,287 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:35:57,288 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:35:57,291 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:57,298 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:53'}
+2020-03-11 19:35:57,355 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:57,979 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:35:57,980 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:57,981 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:53'}
+2020-03-11 19:35:57,982 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:35:59,935 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:35:59,935 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:53'}
+2020-03-11 19:35:59,936 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:02,015 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:02,016 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:02,017 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:02,034 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:02,130 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:57'}
+2020-03-11 19:36:02,294 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:02,978 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:02,978 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:02,979 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:57'}
+2020-03-11 19:36:02,979 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:04,690 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:04,692 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:57'}
+2020-03-11 19:36:04,694 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:06,866 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:06,869 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:35:57'}
+2020-03-11 19:36:06,958 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:07,107 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:07,158 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:07,159 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:07,978 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:07,978 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:07,987 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:03'}
+2020-03-11 19:36:08,064 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:09,273 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:09,274 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:03'}
+2020-03-11 19:36:09,275 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:11,369 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:11,372 - &(name)s - DEBUG - {'num_item': 1917, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:03'}
+2020-03-11 19:36:11,373 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:12,110 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:12,111 - &(name)s - DEBUG - Recevied 1 new items
+2020-03-11 19:36:12,112 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:12,978 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:12,978 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:12,988 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:08'}
+2020-03-11 19:36:13,054 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:13,808 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:13,809 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:08'}
+2020-03-11 19:36:13,810 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:16,191 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:16,193 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:08'}
+2020-03-11 19:36:16,199 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:17,104 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:17,105 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:17,106 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:17,979 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:17,981 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:18,002 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:13'}
+2020-03-11 19:36:18,070 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:18,298 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:18,302 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:13'}
+2020-03-11 19:36:18,304 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:20,825 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:20,833 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:13'}
+2020-03-11 19:36:20,842 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:22,108 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:22,109 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:22,110 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:22,875 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:22,881 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:18'}
+2020-03-11 19:36:22,918 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:22,975 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:22,992 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:22,993 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:18'}
+2020-03-11 19:36:22,994 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:25,241 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:25,242 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:18'}
+2020-03-11 19:36:25,242 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:27,098 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:27,101 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:27,117 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:27,309 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:27,316 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:23'}
+2020-03-11 19:36:27,374 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:27,976 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:27,976 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:27,977 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:23'}
+2020-03-11 19:36:27,978 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:29,690 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:29,691 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:23'}
+2020-03-11 19:36:29,691 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:31,782 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:31,786 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:23'}
+2020-03-11 19:36:31,787 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:32,172 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:32,184 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:32,185 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:32,977 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:32,978 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:32,991 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:28'}
+2020-03-11 19:36:33,115 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:34,246 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:34,247 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:28'}
+2020-03-11 19:36:34,248 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:36,638 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:36,639 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:28'}
+2020-03-11 19:36:36,640 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:37,152 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:37,154 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:37,155 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:37,978 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:37,979 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:37,987 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:33'}
+2020-03-11 19:36:38,039 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:38,735 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:38,736 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:33'}
+2020-03-11 19:36:38,736 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:41,132 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:41,133 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:33'}
+2020-03-11 19:36:41,134 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:42,082 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:42,082 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:42,083 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:42,977 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:42,978 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:42,986 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:38'}
+2020-03-11 19:36:43,044 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:43,192 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:43,193 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:38'}
+2020-03-11 19:36:43,193 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:45,521 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:45,526 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:38'}
+2020-03-11 19:36:45,612 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:47,074 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:47,075 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:47,076 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:47,790 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:47,807 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:43'}
+2020-03-11 19:36:47,867 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:47,974 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:48,018 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:48,151 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:43'}
+2020-03-11 19:36:48,152 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:50,182 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:50,183 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:43'}
+2020-03-11 19:36:50,183 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:52,265 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:52,266 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:52,266 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:52,267 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:52,983 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:53,602 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:53,685 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:48'}
+2020-03-11 19:36:53,754 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:36:57,864 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:36:57,865 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:36:57,865 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:36:57,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:36:58,011 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:36:58,021 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:53'}
+2020-03-11 19:36:58,087 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:02,135 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:02,135 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:02,136 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:02,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:02,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:02,978 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:36:58'}
+2020-03-11 19:37:03,048 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:07,093 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:07,094 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:07,095 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:07,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:07,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:07,976 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:03'}
+2020-03-11 19:37:08,042 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:12,072 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:12,073 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:12,074 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:12,967 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:12,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:12,980 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:08'}
+2020-03-11 19:37:13,051 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:17,086 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:17,087 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:17,088 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:17,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:17,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:17,976 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:13'}
+2020-03-11 19:37:18,038 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:22,074 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:22,075 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:22,076 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:22,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:22,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:22,974 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:18'}
+2020-03-11 19:37:23,046 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:27,150 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:27,150 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:27,151 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:27,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:27,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:27,975 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:23'}
+2020-03-11 19:37:28,012 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:32,053 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:32,054 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:32,054 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:32,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:32,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:32,979 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:28'}
+2020-03-11 19:37:33,044 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:37,103 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:37,104 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:37,105 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:37,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:37,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:37,974 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:33'}
+2020-03-11 19:37:38,011 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:42,040 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:42,041 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:42,041 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:42,969 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:42,970 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:42,985 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:38'}
+2020-03-11 19:37:43,043 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:47,086 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:47,087 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:47,088 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:47,969 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:47,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:47,976 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:43'}
+2020-03-11 19:37:48,019 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:52,057 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:52,058 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:52,059 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:52,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:52,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:52,974 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:48'}
+2020-03-11 19:37:53,020 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:37:57,046 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:37:57,047 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:37:57,048 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:37:57,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:37:57,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:37:57,977 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:53'}
+2020-03-11 19:37:58,021 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:02,050 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:02,051 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:02,052 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:02,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:02,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:02,973 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:37:58'}
+2020-03-11 19:38:03,009 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:07,044 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:07,045 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:07,046 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:07,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:07,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:07,986 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:03'}
+2020-03-11 19:38:08,027 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:12,064 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:12,065 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:12,065 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:12,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:12,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:12,978 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:08'}
+2020-03-11 19:38:13,029 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:17,067 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:17,068 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:17,069 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:17,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:17,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:17,976 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:13'}
+2020-03-11 19:38:18,021 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:22,057 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:22,058 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:22,058 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:22,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:22,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:22,975 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:18'}
+2020-03-11 19:38:23,024 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:27,075 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:27,076 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:27,076 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:27,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:27,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:27,976 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:23'}
+2020-03-11 19:38:28,042 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:32,074 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:32,075 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:32,075 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:32,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:32,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:32,975 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:28'}
+2020-03-11 19:38:33,024 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:37,066 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:37,067 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:37,068 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:37,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:37,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:37,979 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:33'}
+2020-03-11 19:38:38,055 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:42,091 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:42,092 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:42,093 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:42,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:42,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:42,976 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:38'}
+2020-03-11 19:38:43,023 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:47,060 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:47,061 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:47,062 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:47,783 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:47,788 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:43'}
+2020-03-11 19:38:47,822 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:47,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:48,005 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:48,006 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:43'}
+2020-03-11 19:38:48,009 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:49,847 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:49,849 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:43'}
+2020-03-11 19:38:49,850 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:52,094 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:52,095 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:52,096 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:52,254 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:52,261 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:48'}
+2020-03-11 19:38:52,316 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:52,967 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:52,968 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:52,969 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:48'}
+2020-03-11 19:38:52,970 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:54,331 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:54,332 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:48'}
+2020-03-11 19:38:54,332 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:56,742 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:56,743 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:48'}
+2020-03-11 19:38:56,744 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:57,107 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:38:57,108 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:38:57,108 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:38:57,968 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:38:57,969 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:57,978 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:53'}
+2020-03-11 19:38:58,096 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:38:58,758 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:38:58,759 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:53'}
+2020-03-11 19:38:58,759 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:01,265 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:01,331 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:53'}
+2020-03-11 19:39:01,365 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:02,338 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:02,518 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:02,719 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:02,981 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:03,133 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:03,163 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:58'}
+2020-03-11 19:39:03,373 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:03,902 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:03,921 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:38:58'}
+2020-03-11 19:39:04,144 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:08,095 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:08,098 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:08,100 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:12,978 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:12,979 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:12,990 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:03'}
+2020-03-11 19:39:13,067 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:13,070 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:13,197 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:03'}
+2020-03-11 19:39:13,260 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:15,584 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:15,585 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:03'}
+2020-03-11 19:39:15,586 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:17,190 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:17,191 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:17,192 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:17,716 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:17,727 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:13'}
+2020-03-11 19:39:17,797 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:17,975 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:17,983 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:17,984 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:13'}
+2020-03-11 19:39:17,985 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:22,064 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:22,065 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:22,066 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:22,978 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:22,978 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:22,986 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:17'}
+2020-03-11 19:39:23,061 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:24,140 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:24,141 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:17'}
+2020-03-11 19:39:24,166 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:26,849 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:26,862 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:17'}
+2020-03-11 19:39:26,863 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:27,310 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:27,382 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:27,781 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:29,617 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:29,639 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:23'}
+2020-03-11 19:39:29,722 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:33,445 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:33,445 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:33,446 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:23'}
+2020-03-11 19:39:33,447 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:34,277 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:34,278 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:23'}
+2020-03-11 19:39:34,279 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:36,691 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:36,691 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:23'}
+2020-03-11 19:39:36,692 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:37,522 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:37,523 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:37,523 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:37,978 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:37,980 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:38,005 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:33'}
+2020-03-11 19:39:38,060 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:38,759 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:38,760 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:33'}
+2020-03-11 19:39:38,760 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:41,146 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:41,147 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:33'}
+2020-03-11 19:39:41,147 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:42,091 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:42,092 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:42,093 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:42,976 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:42,976 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:42,985 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:38'}
+2020-03-11 19:39:43,077 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:43,247 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:43,248 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:38'}
+2020-03-11 19:39:43,249 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:45,568 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:45,569 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:38'}
+2020-03-11 19:39:45,571 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:47,136 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:47,137 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:47,137 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:47,741 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:47,748 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:43'}
+2020-03-11 19:39:47,803 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:47,976 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:47,993 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:47,993 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:43'}
+2020-03-11 19:39:47,994 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:50,118 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:50,118 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:43'}
+2020-03-11 19:39:50,119 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:52,106 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:52,107 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:52,108 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:52,132 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:52,167 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:48'}
+2020-03-11 19:39:52,247 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:52,975 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:52,975 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:52,976 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:48'}
+2020-03-11 19:39:52,977 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:54,571 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:54,575 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:48'}
+2020-03-11 19:39:54,578 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:56,656 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:56,657 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:48'}
+2020-03-11 19:39:56,658 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:57,075 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:39:57,078 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:39:57,082 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:39:57,977 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:39:57,978 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:57,987 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:53'}
+2020-03-11 19:39:58,034 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:39:59,040 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:39:59,042 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:53'}
+2020-03-11 19:39:59,043 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:01,122 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:01,123 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:53'}
+2020-03-11 19:40:01,124 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:02,059 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:40:02,060 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:40:02,061 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:40:02,979 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:40:02,980 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:02,991 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:58'}
+2020-03-11 19:40:03,032 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:03,488 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:03,490 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:58'}
+2020-03-11 19:40:03,491 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:05,576 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:05,578 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:39:58'}
+2020-03-11 19:40:05,580 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:07,084 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:40:07,088 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:40:07,089 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:40:07,957 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:07,964 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:03'}
+2020-03-11 19:40:07,976 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:40:08,025 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:08,026 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:08,095 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:03'}
+2020-03-11 19:40:08,166 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:10,109 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:10,110 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:03'}
+2020-03-11 19:40:10,110 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:12,220 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:40:12,221 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:40:12,222 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:40:12,517 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:12,536 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:08'}
+2020-03-11 19:40:12,582 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:12,977 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:40:12,985 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:13,014 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:08'}
+2020-03-11 19:40:13,164 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:14,608 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:14,610 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:08'}
+2020-03-11 19:40:14,612 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:16,996 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:16,997 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:08'}
+2020-03-11 19:40:16,998 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:17,223 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:40:17,227 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:40:17,237 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:40:17,980 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:40:17,982 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:18,004 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:13'}
+2020-03-11 19:40:18,069 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:19,070 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:19,071 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:13'}
+2020-03-11 19:40:19,072 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:21,454 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:21,455 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:13'}
+2020-03-11 19:40:21,456 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:22,166 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:40:22,168 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:40:22,169 - &(name)s - INFO - Ended Periodic Processing
+2020-03-11 19:40:22,978 - &(name)s - INFO - Started Periodic Processing
+2020-03-11 19:40:22,979 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:22,988 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:18'}
+2020-03-11 19:40:23,070 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:23,524 - &(name)s - INFO - /event/stats Processing Request
+2020-03-11 19:40:23,525 - &(name)s - DEBUG - {'num_item': 1918, 'num_order': 3452, 'updated_timestamp': '2020-03-11T19:40:18'}
+2020-03-11 19:40:23,525 - &(name)s - INFO - /event/stats Request completed
+2020-03-11 19:40:27,369 - &(name)s - DEBUG - Recevied 0 new orders
+2020-03-11 19:40:27,370 - &(name)s - DEBUG - Recevied 0 new items
+2020-03-11 19:40:27,370 - &(name)s - INFO - Ended Periodic Processing

@@ -5,6 +5,7 @@ datastore:
   hostname: localhost
   port: 3306
   db: events
+  auth_plugin: mysql_native_password
 kafka:
   server: localhost
   port: 9092

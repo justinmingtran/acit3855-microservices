@@ -4,6 +4,7 @@ import yaml
 
 from connexion import NoContent
 from pykafka import KafkaClient
+from flask_cors import CORS, cross_origin
 
 with open('app_conf.yaml', 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -42,6 +43,8 @@ def get_order_by_quantity(quantity, ordered_item):
     
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yaml")
 
 if __name__ == "__main__":

@@ -1,6 +1,13 @@
 import connexion
 from connexion import NoContent
 
+<<<<<<< HEAD
+=======
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from flask_cors import CORS, cross_origin
+
+>>>>>>> 8d1f4d59c57eb3a9aeac2389442fbadf236fe892
 import yaml
 import logging
 import logging.config
@@ -11,6 +18,10 @@ import json
 import datetime
 import os
 # Function
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d1f4d59c57eb3a9aeac2389442fbadf236fe892
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
@@ -86,6 +97,8 @@ def get_inventory_stats():
         return 404
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yaml")
 
 if __name__ == "__main__":
